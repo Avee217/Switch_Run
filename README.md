@@ -1,6 +1,8 @@
 # Switch_Run
 
 
-❮img src="Switch_Run/Screenshots/1.PNG" width="100" ❯
+❮img src="Screenshots/1.PNG"❯
 
-![](Switch_Run/Screenshots/1.PNG)
+![](Screenshots/1.PNG)
+![](Screenshots/2.PNG)
+![](Screenshots/3.PNG)
