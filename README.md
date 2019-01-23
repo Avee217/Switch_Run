@@ -18,5 +18,4 @@ The game will be made on the Unity3D engine. Using C# as the base language. Func
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/65ObRYbrFb8/0.jpg)](http://www.youtube.com/watch?v=65ObRYbrFb8)
 
 ## Link (playable in browser)
-
 https://av217.itch.io/switch-run
