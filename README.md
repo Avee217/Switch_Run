@@ -7,11 +7,13 @@ The game features a mechanic where the player can touch only objects that have t
 
 The game will be made on the Unity3D engine. Using C# as the base language. Functions to keep count of various internal factors. Platforms are generated at random, being picked out from a pool.
 
-Screenshot
+## Screenshot
 
 ![](Screenshots/1.PNG)
 ![](Screenshots/2.PNG)
 ![](Screenshots/3.PNG)
+
+## Trailer
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/65ObRYbrFb8/0.jpg)](http://www.youtube.com/watch?v=65ObRYbrFb8)
 
