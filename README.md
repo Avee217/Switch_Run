@@ -19,4 +19,4 @@ The game will be made on the Unity3D engine. Using C# as the base language. Func
 
 https://av217.itch.io/switch-run
 
-
+![https://av217.itch.io/switch-run](ICON.png)
